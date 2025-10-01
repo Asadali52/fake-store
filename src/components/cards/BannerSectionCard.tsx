@@ -1,6 +1,7 @@
 'use client'
 import { Carousel } from 'antd'
 import Image from 'next/image'
+
 import Banner1 from '@/assets/jpgs/shirt1.jpg'
 import Banner2 from '@/assets/jpgs/shirt2.jpg'
 import Banner3 from '@/assets/jpgs/shirt3.jpg'
